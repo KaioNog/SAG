@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: f9119ea2db144b746aa624b9d72e392c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 401
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd2734518e73243ab108b707980742
+      internalID: 127552920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 431
+        width: 154
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9c7c450dd3c8e47877f5b7bd26577a
+      internalID: -1677671716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 450
+        width: 119
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffb408fb52f99a4982426dfa8916dc4
+      internalID: -424352219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 355
+        width: 140
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dda7edcec147646a3228035692ce50
+      internalID: 475350595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 392
+        width: 146
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6e6eea340a88345822ded9c4e35db4
+      internalID: 56770454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 242
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adceaf2f344a9f14aad09e4c322b7c80
+      internalID: 944164200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 239
+        width: 15
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460c06b2bf034434fae1b1d6b185b080
+      internalID: 2056805767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 258
+        width: 150
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec88331754ede114b9665b8988cfb867
+      internalID: 1872838548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 264
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c3141e73e368458e4ea431f12c685
+      internalID: -1852549021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 225
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c0efd44983734899156aa0046d8da
+      internalID: 1489723650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 147
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2587aee9082170448bd689667c08acde
+      internalID: 1673333141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 130
+        width: 52
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496bb95daa253f44d8375d65d0144f4c
+      internalID: 751378322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 155
+        width: 138
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3067d8c0f8e1b74388c013e78b8178c
+      internalID: -722190654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 137
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671569fadf660e46a39fb99713101b1
+      internalID: 331391690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 30
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3b9ae3d9ca0846ae9371972327a56
+      internalID: 1679682000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 50
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b573970f93107c4d9110f585a98ce41
+      internalID: -971894626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 106
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad2ed673fdcde48879d8ec95b5dad5
+      internalID: 1206142212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_17
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 19
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620c5193e982a0140990d4604b77b7d2
+      internalID: -1020559340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a024e1e6daa146adae932907e012f
+      internalID: -366935871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94b6b9e32345041a345d7b54f9a71d
+      internalID: 2060804958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_20
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 49
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87492444a17564428affdcf802d5b00
+      internalID: -1122698304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 33
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dbb89a90fab1040b440e21914b044e
+      internalID: 918056804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 32
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84b948b8fb545e4984e6e33c49013ad
+      internalID: 1951897672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 20
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6591ebdb0ec7f94a84238e68fbacccb
+      internalID: -1927746136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_24
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132cc4206d3b7a041ac4d7fceffb6d88
+      internalID: 1269263944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinais-de-grafite-diferentes-removebg-preview 1_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a2897ad4500c43824b85faed771fa
+      internalID: 554505503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sinais-de-grafite-diferentes-removebg-preview 1_0: 127552920
+      sinais-de-grafite-diferentes-removebg-preview 1_1: -1677671716
+      sinais-de-grafite-diferentes-removebg-preview 1_10: 1673333141
+      sinais-de-grafite-diferentes-removebg-preview 1_11: 751378322
+      sinais-de-grafite-diferentes-removebg-preview 1_12: -722190654
+      sinais-de-grafite-diferentes-removebg-preview 1_13: 331391690
+      sinais-de-grafite-diferentes-removebg-preview 1_14: 1679682000
+      sinais-de-grafite-diferentes-removebg-preview 1_15: -971894626
+      sinais-de-grafite-diferentes-removebg-preview 1_16: 1206142212
+      sinais-de-grafite-diferentes-removebg-preview 1_17: -1020559340
+      sinais-de-grafite-diferentes-removebg-preview 1_18: -366935871
+      sinais-de-grafite-diferentes-removebg-preview 1_19: 2060804958
+      sinais-de-grafite-diferentes-removebg-preview 1_2: -424352219
+      sinais-de-grafite-diferentes-removebg-preview 1_20: -1122698304
+      sinais-de-grafite-diferentes-removebg-preview 1_21: 918056804
+      sinais-de-grafite-diferentes-removebg-preview 1_22: 1951897672
+      sinais-de-grafite-diferentes-removebg-preview 1_23: -1927746136
+      sinais-de-grafite-diferentes-removebg-preview 1_24: 1269263944
+      sinais-de-grafite-diferentes-removebg-preview 1_25: 554505503
+      sinais-de-grafite-diferentes-removebg-preview 1_3: 475350595
+      sinais-de-grafite-diferentes-removebg-preview 1_4: 56770454
+      sinais-de-grafite-diferentes-removebg-preview 1_5: 944164200
+      sinais-de-grafite-diferentes-removebg-preview 1_6: 2056805767
+      sinais-de-grafite-diferentes-removebg-preview 1_7: 1872838548
+      sinais-de-grafite-diferentes-removebg-preview 1_8: -1852549021
+      sinais-de-grafite-diferentes-removebg-preview 1_9: 1489723650
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

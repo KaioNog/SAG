@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 248c9746e457cff44a718e3c35563459
   - enabled: 1
-    path: Assets/Scenes/lvlTeste.unity
+    path: Assets/Scenes/lvl1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/lvl2.unity
+    guid: cad2057c70c146f49b09093dd131012a
+  - enabled: 1
+    path: Assets/Scenes/lvl3.unity
+    guid: 761dc862c9c57af46a5ad4ebbcf03805
+  - enabled: 1
+    path: Assets/Scenes/Cartas.unity
+    guid: 93a52d8e698f8b14ebe55ef8b0162629
   m_configObjects: {}

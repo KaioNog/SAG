@@ -9,6 +9,10 @@ TagManager:
   - Obstacle
   - autoJump
   - Flip
+  - SabotageCard
+  - RacionaisCard
+  - MH2OCard
+  - Teleporte
   layers:
   - Default
   - TransparentFX

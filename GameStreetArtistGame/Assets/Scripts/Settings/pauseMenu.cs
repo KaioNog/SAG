@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class pauseMenu : MonoBehaviour
 {
     public static bool GameIsPaused = false;
+    public GameObject pauseButton;
     public GameObject pauseMenuUI;
 
     void Start()
@@ -33,9 +34,10 @@ public class pauseMenu : MonoBehaviour
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
         GameIsPaused = false;
+        pauseButton.SetActive(true);
     }
 
-    void Pause()
+    public void Pause()
     {
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
@@ -56,6 +58,12 @@ public class pauseMenu : MonoBehaviour
 
     public void Restart()
     {
-        SceneManager.LoadScene("lvlTeste");
+        SceneManager.LoadScene("lvl1");
+    }
+
+    public void NextLvl()
+    {
+        Debug.Log("Iniciar próximo lvl");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);    
     }
 }
